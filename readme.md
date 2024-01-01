@@ -16,3 +16,4 @@ Merci pour le formateur de Simplon Philippe pour le livre HTML&CSS
 |Chapter 1: Structure|
 |--|
 |[code/chapter-01/example.html](code/chapter-01/example.html)|
+|[code/chapter-01/body-head-title.html](code/chapter-01/body-head-title.html)|
