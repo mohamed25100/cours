@@ -11,3 +11,8 @@ Merci pour le formateur de Simplon Philippe pour le livre HTML&CSS
 |Chapter 7: Forms|144|
 |Chapter 8: Extra Markup|176|
 |Chapter 9: Flash, Video & Audio|200|
+
+
+|Chapter 1: Structure|
+|--|
+|[code/chapter-01/example.html](code/chapter-01/example.html)|
