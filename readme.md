@@ -18,7 +18,7 @@ Merci pour le formateur de Simplon Philippe pour le livre HTML&CSS
 |[code/chapter-01/example.html](code/chapter-01/example.html)|
 |[code/chapter-01/body-head-title.html](code/chapter-01/body-head-title.html)|
 
-|Chapter 2: Text|40|
+|Chapter 2: Text|
 |--|
 |[code/chapter-02/headings.html](code/chapter-02/headings.html)|
 |[code/chapter-02/paragraphs.html](code/chapter-02/paragraphs.html)|
