@@ -25,3 +25,4 @@ Merci pour le formateur de Simplon Philippe pour le livre HTML&CSS
 |[code/chapter-02/bold.html](code/chapter-02/bold.html)|
 |[code/chapter-02/italic.html](code/chapter-02/italic.html)|
 |[code/chapter-02/superscript-and-subscript.html](code/chapter-02/superscript-and-subscript.html)|
+|[code/chapter-02/white-space.html](code/chapter-02/white-space.html)|

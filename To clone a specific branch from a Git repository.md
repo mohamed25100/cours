@@ -1,0 +1,1 @@
+git clone -b branch_name repository_url
